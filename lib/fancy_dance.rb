@@ -13,7 +13,7 @@ module FancyDance
       "I'm doing a pirouette"
     end
     
-    def take_a_bow 
+    def take_a_bow
       "Thank you, thank you. It was apleasure to dance for you all."
     end
   end
